@@ -1,4 +1,4 @@
-HTML Loader
+# HTML Loader
 
 This project contains a simple HTML loader to demonstrate loading indicators in web development.
 Description
